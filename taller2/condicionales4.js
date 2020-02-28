@@ -15,4 +15,3 @@ if (digitarUnNumero ==1){
     alert("elegiste el domingo")
 }else{
     alert ("numero no valido")
-}
